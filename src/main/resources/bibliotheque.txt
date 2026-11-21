@@ -1,0 +1,10 @@
+Bibliothèque des Orangers — document fictif créé pour le test de routage.
+
+La bibliothèque ouvre du lundi au vendredi de 9 h à 18 h et le samedi de 10 h
+à 14 h. Elle est fermée le dimanche.
+
+Chaque lecteur inscrit peut emprunter trois livres pendant quatorze jours.
+Une prolongation de sept jours est possible si le livre n'est pas réservé.
+L'inscription se fait à l'accueil avec une pièce d'identité. Les retours se
+font au comptoir pendant les heures d'ouverture. La salle de lecture est
+silencieuse ; les boissons et la nourriture y sont interdites.
